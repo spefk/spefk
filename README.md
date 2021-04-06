@@ -1,1 +1,1 @@
-# spefk
+My resume: [a link](https://github.com/spefk/spefk/blob/master/Kurmazov_Resume.pdf)

@@ -1,1 +1,1 @@
-My resume: [a link](https://github.com/spefk/spefk/blob/master/Kurmazov_Resume.pdf)
+[Resume](https://github.com/spefk/spefk/blob/master/Kurmazov_Resume.pdf)

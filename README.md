@@ -1,6 +1,7 @@
 Hi!
 
 My resume (eng): 
+
 My resume (rus): https://github.com/spefk/spefk/blob/master/Kurmazov_Resume.pdf
 
 Repositories:
@@ -12,4 +13,5 @@ Repositories:
 My CG artist portfolio: https://www.artstation.com/specter
 
 emalil: f.kurmazov.b@gmail.com
+
 telegram: @spefk (https://t.me/spefk)

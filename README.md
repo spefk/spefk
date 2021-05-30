@@ -1,8 +1,8 @@
-Hi!
+Hello!
 
-My resume (eng): 
+My resume (eng): https://github.com/spefk/spefk/blob/master/Kurmazov_Resume_Eng.pdf
 
-My resume (rus): https://github.com/spefk/spefk/blob/master/Kurmazov_Resume.pdf
+My resume (rus): https://github.com/spefk/spefk/blob/master/Kurmazov_Resume_Rus.pdf
 
 Repositories:
 - Machine learning experience in python: https://github.com/spefk/machine_learning_spbsue

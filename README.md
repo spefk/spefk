@@ -10,7 +10,7 @@ Repositories:
 - Steiner tree problem solver package for Wolfram Mathematica: https://github.com/spefk/wolfram_steiner
 
 
-My CG artist portfolio: https://www.artstation.com/specter
+My CG portfolio: https://www.artstation.com/specter
 
 emalil: f.kurmazov.b@gmail.com
 

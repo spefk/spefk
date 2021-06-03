@@ -1,5 +1,8 @@
 Hello!
 
+My name is Fedor Kurmazov, I am a freelancer living in Saint-Petersburg.
+
+
 My CS resume (eng): https://github.com/spefk/spefk/blob/master/Kurmazov_Resume_Eng.pdf
 
 My CS resume (rus): https://github.com/spefk/spefk/blob/master/Kurmazov_Resume_Rus.pdf
@@ -12,6 +15,6 @@ Repositories:
 
 My CG portfolio: https://www.artstation.com/specter
 
-emalil: f.kurmazov.b@gmail.com
 
-telegram: @spefk (https://t.me/spefk)
+Email: f.kurmazov.b@gmail.com
+Telegram: @spefk (https://t.me/spefk)

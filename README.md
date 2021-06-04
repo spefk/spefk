@@ -8,7 +8,7 @@ Info about me:
 - CS resume (rus): https://github.com/spefk/spefk/blob/master/Kurmazov_Resume_Rus.pdf
 - CG portfolio: https://www.artstation.com/specter
 
-Repositories:
+My open repositories:
 - Machine learning experience in python: https://github.com/spefk/machine_learning_spbsue
 - Web project (graph problem solver) on Python and Flask: https://github.com/spefk/graph_solver_web
 - Steiner tree problem solver package for Wolfram Mathematica: https://github.com/spefk/wolfram_steiner

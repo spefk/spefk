@@ -9,7 +9,7 @@ Info about me:
 - CG portfolio: https://www.artstation.com/specter
 
 My open repositories:
-- Machine learning experience in python: https://github.com/spefk/machine_learning_spbsue
+- Machine learning experience with Python: https://github.com/spefk/machine_learning_spbsue
 - Web project (graph problem solver) on Python and Flask: https://github.com/spefk/graph_solver_web
 - Steiner tree problem solver package for Wolfram Mathematica: https://github.com/spefk/wolfram_steiner
 

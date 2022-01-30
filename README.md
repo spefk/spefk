@@ -1,6 +1,6 @@
 Hello!
 
-My name is Fedor Kurmazov, I am a freelancer living in Saint-Petersburg.
+My name is Fedor Kurmazov, I am a software developer living in Saint-Petersburg.
 
 
 Info about me:

@@ -17,4 +17,4 @@ My open repositories:
 
 
 Email: f.kurmazov.b@gmail.com  
-Telegram: @spefk (https://t.me/spefk)
+Telegram: [@spefk](https://t.me/spefk)
